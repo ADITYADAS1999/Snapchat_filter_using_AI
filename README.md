@@ -1,3 +1,13 @@
+
+
+# About AI technology
+
+
+
+
+
+
+
 # Snapchat_filter_using_AI
 
 
