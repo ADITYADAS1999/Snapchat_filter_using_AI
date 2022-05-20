@@ -3,9 +3,6 @@
 # About AI technology
 
 
-Viola-Jones algorithm
-
-
 <a href="https://towardsdatascience.com/the-intuition-behind-facial-detection-the-viola-jones-algorithm-29d9106b6999">Viola-Jones algorithm</a>
 
 
